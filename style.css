@@ -1,0 +1,50 @@
+body{
+    background-image: url("https://www.foodiesfeed.com/wp-content/uploads/2019/02/messy-pizza-on-a-black-table.jpg");
+    height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.quote{
+    color:white;
+    font-size: 50px;
+    margin-left: 38%;
+    margin-top: 300px;
+}
+.qte,a,.details,.order{
+    font-family: 'Dancing Script', cursive;
+}
+a{
+    text-decoration: none;
+    padding: 15px;
+    border-radius:5px;
+    color:white;
+    background-color:black;
+}
+.login{
+    background-image:url("./coffee.jpg");
+    background-image:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+}
+.order{
+    background-image:url("./tea.jpg");
+    background-image:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+}
+.enter{
+    margin-left: 48%;
+}
+.details{
+    margin-left:5%;
+    color:white;
+}
+.order{
+    margin-left:3%;
+    color:white;
+}
+.end{
+    margin-bottom: 3%;
+}
